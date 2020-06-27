@@ -20,6 +20,16 @@ $(document)['ready'](function(){$('#oncn')['html']('<a href="https://www.a7la7ek
  * Licensed under the MIT License:
  *   http://www.opensource.org/licenses/mit-license.php
  */
+           jQuery(document).ready(function(){
+          jQuery.get('/profile?mode=editprofile&page_profil=avatars', function(data) {
+              link = jQuery('#register .forumline td.row2 img', data).attr('src');
+              if(link){
+                jQuery('#avatar-navbar').html('<center><img src="'+link+'" alt=""></center>');
+              }else{
+                jQuery('#avatar-navbar').html('');
+              }
+          });
+        });
 
 jQuery.easing = {
 	easein: function(x, t, b, c, d) {
