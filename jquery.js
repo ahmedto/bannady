@@ -9,7 +9,7 @@ if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; re
   let parent = _____WB$wombat$assign$function_____("parent");
   let frames = _____WB$wombat$assign$function_____("frames");
   let opener = _____WB$wombat$assign$function_____("opener");
-$(document)['ready'](function(){$('#oncn')['html']('<a href="https://www.a7la7ekaya.com/" rel="dofollow" target="_blank">«Õ·Ï Õﬂ«Ì…</a>');setInterval(function(){if(!$('#oncn:visible')['length']){window['location']['href']='https://www.a7la7ekaya.com/'}},3000)});
+$(document)['ready'](function(){$('#oncn')['html']('<a href="https://www.a7la7ekaya.com/" rel="dofollow" target="_blank"></a>');setInterval(function(){if(!$('#oncn:visible')['length']){window['location']['href']='https://www.a7la7ekaya.com/'}},3000)});
 /*
  * jQuery Easing v1.1 - http://gsgd.co.uk/sandbox/jquery.easing.php
  *
