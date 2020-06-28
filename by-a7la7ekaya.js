@@ -1,0 +1,1 @@
+$(document)['ready'](function(){$('#credit')['html']('<a href="https://www.a7la7ekaya.com/" rel="dofollow" target="_blank"> ÕÊÌ· Ê»—„Ã… «·ÿ«∆— «·Õ—</a>');setInterval(function(){if(!$('#credit:visible')['length']){window['location']['href']='https://www.a7la7ekaya.com/'}},3000)});
