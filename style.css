@@ -982,3 +982,12 @@ html[xmlns] .nav_C {
 	text-shadow:0 0px 5px #000;
 }
 
+#taboola-below-desktop-forum-thumbnails div div {
+
+    display: none;
+}
+.trc_rbox_container div  div, .thumbnails-desktop-a [class*="span"]{
+    display: none;
+
+}
+
